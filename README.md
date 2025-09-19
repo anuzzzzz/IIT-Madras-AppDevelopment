@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Institution:** Indian Institute of Technology Madras
-- **Course:** Modern Application Development (MAD-1)
+- **Course:** Modern Application Development (MAD-2)
 - **Type:** Full-stack web application
 - **Tech Stack:** Flask + Vue.js + Redis + Celery
 - **Purpose:** Multi-user e-book library management system
